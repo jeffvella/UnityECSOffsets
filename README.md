@@ -69,7 +69,7 @@ Which can then be used directly or fed into your own imposter structs:
 
 ##### Updating for a new version of Entities:
 
-There is a menu item under the new 'DOTS' group that triggers the offsets file to be updated to the currently installed version of the Entities package.
+There is a menu item under the 'DOTS' group that triggers the offsets file to be updated to the currently installed version of the Entities package.
 
 <img src="https://i.imgur.com/3mko0XC.png" target="_blank" />
 
