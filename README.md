@@ -1,7 +1,5 @@
 # Unity ECS Offsets
 
-Utility to auto-generate an offsets file for 'Internal' protected structs.
-
 ##### What is this all about?:
 
 If you want to access to Unity ECS internal data that is non-public, for example working with chunks and archetypes directly, then this gives you the required offsets. 
