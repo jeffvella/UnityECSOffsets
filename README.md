@@ -1,4 +1,4 @@
-# UnityECSOffsets
+# Unity ECS Offsets
 
 Utility to auto-generate an offsets file for 'Internal' protected structs.
 
