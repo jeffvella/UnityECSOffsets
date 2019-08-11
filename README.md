@@ -82,4 +82,4 @@ There is a menu item under the 'DOTS' group that triggers the offsets file to be
 
 ##### Note:
 
-Be ware that some structs have different fields based on the #define for safety checks. Although most of these conditional members seem to be specifically placed towards the end and the most important fields are first which reduces the chance of this being an issue.
+Be aware that some structs have different fields based on the #define for safety checks. Although most of these conditional members seem to be specifically placed towards the end and the most important fields are first which reduces the chance of this being an issue.
