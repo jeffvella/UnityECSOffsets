@@ -75,10 +75,7 @@ There is a menu item under the 'DOTS' group that triggers the offsets file to be
 
 ##### Written using the following versions:
 
-* Unity 2019.3.0a11
-* "com.unity.burst": "1.1.1",
-* "com.unity.collections": "0.1.1-preview",
-* "com.unity.entities": "0.1.1-preview",
+* Unity 2020.1.0b5
 
 ##### Note:
 
